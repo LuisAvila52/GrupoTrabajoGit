@@ -1,3 +1,3 @@
-Paso uno tener los ingredientes
-paso dos 
-pag
+# RECETA DE MI PIZZA 
+Realizar integracion de ingredientes
+
