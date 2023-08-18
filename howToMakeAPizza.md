@@ -8,3 +8,4 @@ Utilizacion de utencilios
 rodillo de mesa
 papel de horno
 bol
+papel aluminio
